@@ -1,7 +1,0 @@
-C:\Users\vazqu\Desktop\10mo\Platzi\C#\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.exe.config
-C:\Users\vazqu\Desktop\10mo\Platzi\C#\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.exe
-C:\Users\vazqu\Desktop\10mo\Platzi\C#\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.pdb
-C:\Users\vazqu\Desktop\10mo\Platzi\C#\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csproj.AssemblyReference.cache
-C:\Users\vazqu\Desktop\10mo\Platzi\C#\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csproj.CoreCompileInputs.cache
-C:\Users\vazqu\Desktop\10mo\Platzi\C#\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.exe
-C:\Users\vazqu\Desktop\10mo\Platzi\C#\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.pdb
