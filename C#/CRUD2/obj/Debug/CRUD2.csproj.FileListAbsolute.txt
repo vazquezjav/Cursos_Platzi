@@ -1,0 +1,11 @@
+C:\Users\vazqu\Desktop\10mo\Platzi\C#\CRUD2\bin\Debug\CRUD2.exe.config
+C:\Users\vazqu\Desktop\10mo\Platzi\C#\CRUD2\bin\Debug\CRUD2.exe
+C:\Users\vazqu\Desktop\10mo\Platzi\C#\CRUD2\bin\Debug\CRUD2.pdb
+C:\Users\vazqu\Desktop\10mo\Platzi\C#\CRUD2\bin\Debug\MySql.Data.dll
+C:\Users\vazqu\Desktop\10mo\Platzi\C#\CRUD2\obj\Debug\CRUD2.Properties.Resources.resources
+C:\Users\vazqu\Desktop\10mo\Platzi\C#\CRUD2\obj\Debug\CRUD2.csproj.GenerateResource.cache
+C:\Users\vazqu\Desktop\10mo\Platzi\C#\CRUD2\obj\Debug\CRUD2.csproj.CoreCompileInputs.cache
+C:\Users\vazqu\Desktop\10mo\Platzi\C#\CRUD2\obj\Debug\CRUD2.csproj.CopyComplete
+C:\Users\vazqu\Desktop\10mo\Platzi\C#\CRUD2\obj\Debug\CRUD2.exe
+C:\Users\vazqu\Desktop\10mo\Platzi\C#\CRUD2\obj\Debug\CRUD2.pdb
+C:\Users\vazqu\Desktop\10mo\Platzi\C#\CRUD2\obj\Debug\CRUD2.Form1.resources
